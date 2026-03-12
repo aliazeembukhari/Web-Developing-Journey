@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Video Compilation Page</title>
+</head>
+
+<body>
+  <main>
+    <h1>Front End Web Development</h1>
+    
+    <p>
+      Front End Web Development involves designing and building user interfaces 
+      of websites using HTML, CSS, and JavaScript.
+    </p>
+
+    <section>
+      <h2>HTML</h2>
+      <p>This video introduces HTML and its basic structure.</p>
+      <iframe 
+        src="https://www.youtube.com/embed/UB1O30fR-EE"
+        title="HTML tutorial"
+        width="640"
+        height="340">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>CSS</h2>
+      <p>This video explains how CSS styles web pages.</p>
+      <iframe 
+        src="https://www.youtube.com/embed/yfoY53QXEnI"
+        title="CSS tutorial"
+        width="640"
+        height="340">
+      </iframe>
+    </section>
+
+    <section>
+      <h2>JavaScript</h2>
+      <p>This video covers JavaScript basics for beginners.</p>
+      <iframe 
+        src="https://www.youtube.com/embed/W6NZfCO5SIk"
+        title="JavaScript tutorial"
+        width="640"
+        height="340">
+      </iframe>
+    </section>
+
+  </main>
+</body>
+</html>
+
+
